@@ -1,2 +1,2 @@
-# Hands-On-Design-Patterns-with-JAVA-11
+# Hands-On-Design-Patterns-with-Java
 Published by Packt
