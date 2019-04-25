@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 
-public class FailFastImplementation {
+public class FailFastImplementation2 {
 
     public static void main(String[] args) throws ConcurrentModificationException {
 
@@ -27,6 +27,8 @@ public class FailFastImplementation {
                 System.out.println("Encountered Exception: Failing Fast!");
                 return;
             }
+            firstLast.put("Ingrid", "Lithingson");
         }
     }
 }
+
